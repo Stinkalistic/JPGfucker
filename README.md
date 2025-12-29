@@ -1,6 +1,13 @@
 # JPGfucker
 A python script that corrupts JPG files to change how they look
 
+# How To Use
+Run the file (.py or .exe) and enter the name of the jpg file you want to corrupt. It should be in the same directory as jpgfucker.
+Next enter how much you want to corrupt it, represented as integer. If you only want to corrupt it a small amount, choose a small number like 2 or 3. 
+If you want it to look completely different, choose a higher number like 10 or more. Please note that a very high number is likely to break the image,
+making it unable to be viewed.  The program will create a new image in directory titled "fucked up (your file name).jpg". If you would like to corrupt
+it further you can enter another number to corrupt it even more.
+
 # Examples
 Before<br>
 ![bluemoji](https://github.com/user-attachments/assets/e75ee831-aec8-42ca-915c-35f0a8dcdb00)
